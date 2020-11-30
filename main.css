@@ -1,0 +1,24 @@
+.wrap {
+    padding-top: 60px;
+}
+
+.footer .container {
+    border-top: 2px solid #343a40;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.loginpage {
+    background: #f0f0f0;
+}
+
+.login {
+    background: #ffffff;
+    width: 100%;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid #e0e0e0;
+}
